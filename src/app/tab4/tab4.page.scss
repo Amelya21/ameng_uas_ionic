@@ -1,0 +1,20 @@
+ion-header{
+    background: var(--ion-color-white);
+    ion-list{
+       
+        background: var(--ion-color-success);
+        padding-bottom: 3vh;
+        
+        ion-item{
+           
+            ion-label{
+                font-weight: bold;
+                font-size: 1.2rem;
+                letter-spacing: 0.5px;
+            }
+            
+        }
+}
+
+
+}
